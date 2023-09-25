@@ -1,5 +1,4 @@
-name: .NET
-
+name: Label Issues
 on:
   issues:
     types:
